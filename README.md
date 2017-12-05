@@ -1,7 +1,6 @@
-<div align="center">
-<img src='image/book.png' align="right" height="250" width="300">
-</div>   
-
+<div align="right">
+<img src='image/book.png' height="250" width="300">
+</div>  
 分析《金瓶梅》
 ========
 所用到的库，jieba，gensim，用的版本是网上下载的无删节“崇祯本”，好像也不全，比如武大郎死后做法事时候的一段这个版本就没有：

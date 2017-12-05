@@ -1,5 +1,5 @@
 <div align="center">
-<img src='image/book.png' style="float:right" height="250" width="300">
+<img src='image/book.png' align="right" height="250" width="300">
 </div>   
 
 分析《金瓶梅》

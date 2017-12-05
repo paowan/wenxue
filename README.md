@@ -1,4 +1,5 @@
-![](image/book.png)
+<img src='image/book.png' align='right'>
+
 
 分析《金瓶梅》
 ========
